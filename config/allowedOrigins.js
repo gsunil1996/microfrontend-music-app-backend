@@ -10,6 +10,7 @@ const allowedOrigins = [
   "http://localhost:8085",
   "http://localhost:8086",
   "http://localhost:8087",
+  "https://next-js-music-dashboard-prototype.vercel.app",
   "https://v6-prototype-react-frontend.vercel.app",
   "http://admin-microfrontend.apps.ocp4.pacosta.com",
   "http://auth-microfrontend.apps.ocp4.pacosta.com",
